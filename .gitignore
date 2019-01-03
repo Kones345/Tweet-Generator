@@ -1,0 +1,6 @@
+Credentials.py
+*.idea
+*.vscode
+*.xml
+*.json
+__pycache__/
